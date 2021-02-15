@@ -9,11 +9,11 @@ A console based Python program that automatically sends a message through whatsa
 ## Installation
 Step 1: [_Copy the files in your local machine_] Go to your terminal and run this command
 
-`git clone ------------`
+`git clone https://github.com/akshatdodhiya/advanced-whatsapp-automation`
 
 Step 2: [_Install the dependencies_] In terminal window, Navigate to the directory you have installed this program and run this command
 
-`pip install -r requirements.txt`
+`pip3 install -r requirements.txt`
 
 Step 3: [_Run the program_] After completing the installation, You are ready to run the program. To run the program, navigate to the same directory in your terminal and run this command
 
